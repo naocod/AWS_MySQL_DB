@@ -30,6 +30,11 @@ insert into university_mst values (3, '경상대');
 
 select * from university_mst;
 
+insert into mentor_mst values (1, '문자영');
+insert into mentor_mst values (2, '문성현');
+
+select * from mentor_mst;
+
 select
 	*
 from
